@@ -1,3 +1,3 @@
 # quicksort
 
-https://daniel-son002.github.io/minesweeper-js/
+https://daniel-son002.github.io/quicksort/
